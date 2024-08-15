@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Editor/IDE files
+*.idea/
+*.sublime-project
+*.sublime-workspace
+*.vim
+*.vscode
+
+# Unimportant OS-specific files
+.DS_Store

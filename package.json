@@ -1,0 +1,17 @@
+{
+  "private": "true",
+  "name": "esm-import-graph",
+  "version": "0.0.1",
+  "description": "Determines the import graph of a given ES module",
+  "module": "src/esm-import-graph.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Cameron <stefan@stefcameron.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json5": "^2.2.3",
+    "lodash-es": "^4.17.21",
+    "rtvjs": "^5.0.0"
+  }
+}
